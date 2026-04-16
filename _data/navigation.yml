@@ -11,11 +11,11 @@ main:
     url: /contact/
 
 personal:
-  - title: "Personal"
-    children:
-      - title: "Reviews"
-        url: /personal/reviews/
-      - title: "Lecture Notes"
-        url: /personal/lectures/
-      - title: "Problems"
-        url: /personal/problems/
+  - title: "Personal Main Page"
+    url: "/personal/personal/"    
+  - title: "Reviews"
+    url: /personal/reviews/
+  - title: "Lecture Notes"
+    url: /personal/lectures/
+  - title: "Problems"
+    url: /personal/problems/

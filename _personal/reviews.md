@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 permalink: /personal/reviews/
 title: Reviews
 sidebar:

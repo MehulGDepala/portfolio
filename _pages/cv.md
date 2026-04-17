@@ -32,7 +32,7 @@ title: CV
       <span>2023–ongoing</span>
     </div>
     <div class="cv-item-sub">University of Liverpool, Supervisor: Prof Andrew Mehta (P), Prof Monica D'Onofrio (S)</div>
-    <div class="cv-item P">Thesis: Search for third-generation leptoquarks with the ATLAS detector</div>
+    <div class="cv-content">Thesis: Search for third-generation leptoquarks with the ATLAS detector</div>
   </div>
 
   <div class="cv-item">
@@ -41,7 +41,7 @@ title: CV
       <span>2018–2020</span>
     </div>
     <div class="cv-item-sub">Imperial College London - Merit, Supervisor: Prof Arttu Rajantie</div>
-    <div class="cv-item P">Dissertation : Dark matter models in the context of Inflation</div>
+    <div class="cv-content">Dissertation : Inflationary Cosmology and Dark Matter</div>
   </div>
 
   <div class="cv-item">
@@ -50,7 +50,7 @@ title: CV
       <span>2015–2018</span>
     </div>
     <div class="cv-item-sub"> Queen Mary, University of London (First-class with Honours), Supervisor: Prof Steve Thomas</div>
-    <div class="cv-item p">Dissertation: Hidden Dimensions and Gravity (Kaluza-Klein theory)</div>
+    <div class="cv-content">Dissertation: Hidden Dimensions and Gravity (Kaluza-Klein theory)</div>
   </div>
 
 </div>
@@ -59,9 +59,15 @@ title: CV
   <div class="cv-section">Teaching</div>
   <div class="cv-content">
     <div class="cv-item-header">
-      <span>Degree — University</span>
-      <span>2017–2020</span>
+      <span>Teaching Assistant (Tutorials) — University of Liverpool</span>
+      <span>2023–Ongoing</span>
+      <div class="cv-content"><ul>
+        <li>Computational Statistical Data Analysis for Physicsists</li>
+        <li>Particles physics and nuclear physics</li>
+        <li>Quantum Mechanics</li>
+        </ul></div>
     </div>
+
   </div>
   <!-- Skills -->
   <div class="cv-section">Skills</div>

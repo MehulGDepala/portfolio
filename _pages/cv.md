@@ -21,21 +21,38 @@ title: CV
   </div>
 
   <!-- Education -->
-  <div class="cv-section">Education</div>
-  <div class="cv-content">
+<!-- Education -->
+<div class="cv-section">Education</div>
+<div class="cv-content">
+
+  <div class="cv-item">
     <div class="cv-item-header">
-      <span>PhD Particle Physics — University of Liverpool</span>
+      <span>PhD Particle Physics </span>
       <span>2023–ongoing</span>
     </div>
+    <div class="cv-item-sub">University of Liverpool</div>
+    <div class="cv-item-sub">Thesis: Search for third-generation leptoquarks with the ATLAS detector</div>
+  </div>
+
+  <div class="cv-item">
     <div class="cv-item-header">
-      <span>MSc Theoretical Physics (QFFF) — Imperial College London (Merit)</span>
+      <span>MSc Theoretical Physics</span>
       <span>2018–2020</span>
     </div>
+    <div class="cv-item-sub">Imperial College London - Merit</div>
+    <div class="cv-item-sub">Dissertation [Supervisor - Prof Arttu Rajantie]: Dark matter models in the context of Inflation</div>
+  </div>
+
+  <div class="cv-item">
     <div class="cv-item-header">
-      <span>BSc Theoretical Physics — Queen Mary, Univerisity of London (First-class with Honours)</span>
+      <span>BSc Theoretical Physics </span>
       <span>2015–2018</span>
     </div>
+    <div class="cv-item-sub"> Queen Mary, University of London (First-class with Honours)</div>
+    <div class="cv-item-sub">Dissertation [Supervisor - Prof Steve Thomas]: Hidden Dimensions and Gravity (Kaluza-Klein theory)</div>
   </div>
+
+</div>
 
 <!-- Teaching -->
   <div class="cv-section">Teaching</div>

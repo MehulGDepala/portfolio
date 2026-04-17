@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.cv {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 1.5rem 2rem;
+  }
+  
+  .cv-section {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    color: #555;
+    padding-top: 0.3rem;
+  }
+  
+  .cv-content {
+    margin-bottom: 1.2rem;
+  }
+  
+  .cv-item {
+    margin-bottom: 1rem;
+  }
+  
+  .cv-item-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+  }
+  
+  .cv-item-sub {
+    font-style: italic;
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  .cv-item p {
+    margin: 0.3rem 0 0 0;
+  }

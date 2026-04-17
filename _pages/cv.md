@@ -56,19 +56,24 @@ title: CV
 </div>
 
 <!-- Teaching -->
-  <div class="cv-section">Teaching</div>
-  <div class="cv-content">
+<div class="cv-section">Teaching</div>
+
+<div class="cv-content">
+
+  <div class="cv-item">
     <div class="cv-item-header">
       <span>Teaching Assistant (Tutorials) — University of Liverpool</span>
       <span>2023–Ongoing</span>
-      <div class="cv-content"><ul>
-        <li>Computational Statistical Data Analysis for Physicsists</li>
-        <li>Particles physics and nuclear physics</li>
-        <li>Quantum Mechanics</li>
-        </ul></div>
     </div>
 
+    <ul>
+      <li>Computational Statistical Data Analysis for Physicists</li>
+      <li>Particle Physics and Nuclear Physics</li>
+      <li>Quantum Mechanics</li>
+    </ul>
   </div>
+
+</div>
   <!-- Skills -->
   <div class="cv-section">Skills</div>
   <div class="cv-content">

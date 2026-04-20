@@ -81,33 +81,9 @@ title: CV
     <p>C++ · Python · Machine Learning · Data Analysis</p>
   </div>
 
-</div>
-
-
-  <!-- Work Experience -->
-  <div class="cv-section"> Work Experience</div>
+  <!-- CV -->
+  <div class="cv-section">CV</div>
   <div class="cv-content">
-
-    <div class="cv-item">
-      <div class="cv-item-header">
-        <span>Job Title — Company</span>
-        <span>2022–Present</span>
-      </div>
-      <div class="cv-item-sub">Location or team</div>
-      <p>
-        Short description of what you did, impact, technologies, etc.
-      </p>
-    </div>
-
-    <div class="cv-item">
-      <div class="cv-item-header">
-        <span>Previous Role — Company</span>
-        <span>2020–2022</span>
-      </div>
-      <p>
-        Another concise description.
-      </p>
-    </div>
-
+    <p> <a href="/assets/documents/mehul_cv.pdf">Curriculum Vitae</a></p>
   </div>
 

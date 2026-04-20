@@ -15,9 +15,8 @@ title: CV
   <div class="cv-section">Research Interests</div>
   <div class="cv-content">
     <ul>
-        <li>BSM Physics</li>
-        <li>Machine learning</li>
-        <li>QFT</li>
+        <li>Current Interests: Exotic physics searches, Tau reconstruction and ID using Machine Learning (GNN's & Transformers) </li>
+        <li>Academic Interests: QFT, Inflation/Cosmology, Standard Model </li>        
     </ul>
   </div>
 
@@ -42,6 +41,8 @@ title: CV
     </div>
     <div class="cv-item-sub">Imperial College London - Merit, Supervisor: Prof Arttu Rajantie</div>
     <div class="cv-content">Dissertation : Inflationary Cosmology and Dark Matter</div>
+    <div class="cv-content"> Notable Courses: Adv. QFT, QED, Cosmology, GR</div> 
+  
   </div>
 
   <div class="cv-item">
